@@ -1,0 +1,14 @@
+D:\Profiles\vg1566\source\repos\First Project\First Project\bin\Debug\First Project.exe.config
+D:\Profiles\vg1566\source\repos\First Project\First Project\bin\Debug\First Project.exe
+D:\Profiles\vg1566\source\repos\First Project\First Project\bin\Debug\First Project.pdb
+D:\Profiles\vg1566\source\repos\First Project\First Project\obj\Debug\First Project.csprojAssemblyReference.cache
+D:\Profiles\vg1566\source\repos\First Project\First Project\obj\Debug\First Project.csproj.CoreCompileInputs.cache
+D:\Profiles\vg1566\source\repos\First Project\First Project\obj\Debug\First Project.exe
+D:\Profiles\vg1566\source\repos\First Project\First Project\obj\Debug\First Project.pdb
+D:\Profiles\vg1566\Documents\Cloned\igme206\First Project\bin\Debug\First Project.exe.config
+D:\Profiles\vg1566\Documents\Cloned\igme206\First Project\bin\Debug\First Project.exe
+D:\Profiles\vg1566\Documents\Cloned\igme206\First Project\bin\Debug\First Project.pdb
+D:\Profiles\vg1566\Documents\Cloned\igme206\First Project\obj\Debug\First Project.csprojAssemblyReference.cache
+D:\Profiles\vg1566\Documents\Cloned\igme206\First Project\obj\Debug\First Project.csproj.CoreCompileInputs.cache
+D:\Profiles\vg1566\Documents\Cloned\igme206\First Project\obj\Debug\First Project.exe
+D:\Profiles\vg1566\Documents\Cloned\igme206\First Project\obj\Debug\First Project.pdb
