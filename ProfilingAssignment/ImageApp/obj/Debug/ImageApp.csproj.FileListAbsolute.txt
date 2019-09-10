@@ -1,0 +1,10 @@
+C:\Users\Valentina\Desktop\Game Dev for Programmers HW\CSharpProjects-master\ImageApp\bin\Debug\ImageApp.exe.config
+C:\Users\Valentina\Desktop\Game Dev for Programmers HW\CSharpProjects-master\ImageApp\bin\Debug\ImageApp.exe
+C:\Users\Valentina\Desktop\Game Dev for Programmers HW\CSharpProjects-master\ImageApp\bin\Debug\ImageApp.pdb
+C:\Users\Valentina\Desktop\Game Dev for Programmers HW\CSharpProjects-master\ImageApp\obj\Debug\ImageApp.Form1.resources
+C:\Users\Valentina\Desktop\Game Dev for Programmers HW\CSharpProjects-master\ImageApp\obj\Debug\ImageApp.Properties.Resources.resources
+C:\Users\Valentina\Desktop\Game Dev for Programmers HW\CSharpProjects-master\ImageApp\obj\Debug\ImageApp.csproj.GenerateResource.Cache
+C:\Users\Valentina\Desktop\Game Dev for Programmers HW\CSharpProjects-master\ImageApp\obj\Debug\ImageApp.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Desktop\Game Dev for Programmers HW\CSharpProjects-master\ImageApp\obj\Debug\ImageApp.exe
+C:\Users\Valentina\Desktop\Game Dev for Programmers HW\CSharpProjects-master\ImageApp\obj\Debug\ImageApp.pdb
+C:\Users\Valentina\Desktop\Game Dev for Programmers HW\CSharpProjects-master\ImageApp\obj\Debug\ImageApp.csprojResolveAssemblyReference.cache
