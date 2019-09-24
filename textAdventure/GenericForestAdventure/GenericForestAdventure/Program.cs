@@ -1953,7 +1953,7 @@ namespace GenericForestAdventure
                 {
                     input = controller.nextCommand();
                     string commandParsed = gameLogic.parseCommand(input);
-                    Console.WriteLine(commandParsed);
+                    //Console.WriteLine(commandParsed);
                     view.ReadCommand(commandParsed, gameLogic.inventory, gameLogic.keywordList);
                 }
                 //
