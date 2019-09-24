@@ -1,0 +1,7 @@
+C:\Users\Valentina\source\repos\GenericForestAdventure\GenericForestAdventure\bin\Debug\GenericForestAdventure.exe.config
+C:\Users\Valentina\source\repos\GenericForestAdventure\GenericForestAdventure\bin\Debug\GenericForestAdventure.exe
+C:\Users\Valentina\source\repos\GenericForestAdventure\GenericForestAdventure\bin\Debug\GenericForestAdventure.pdb
+C:\Users\Valentina\source\repos\GenericForestAdventure\GenericForestAdventure\obj\Debug\GenericForestAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Valentina\source\repos\GenericForestAdventure\GenericForestAdventure\obj\Debug\GenericForestAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\source\repos\GenericForestAdventure\GenericForestAdventure\obj\Debug\GenericForestAdventure.exe
+C:\Users\Valentina\source\repos\GenericForestAdventure\GenericForestAdventure\obj\Debug\GenericForestAdventure.pdb
