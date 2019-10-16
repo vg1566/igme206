@@ -1,0 +1,1 @@
+Living Room|You're standing in a living room northwest of where you started.|none*westRoom*northRoom*none

@@ -1,0 +1,7 @@
+C:\Users\Valentina\source\repos\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+C:\Users\Valentina\source\repos\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+C:\Users\Valentina\source\repos\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+C:\Users\Valentina\source\repos\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Valentina\source\repos\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\source\repos\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+C:\Users\Valentina\source\repos\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb

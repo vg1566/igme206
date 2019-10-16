@@ -1,0 +1,1 @@
+North Room|You're standing in a room to the north of where you started.|none*centerRoom*bedroom*livingRoom

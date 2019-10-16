@@ -1,0 +1,1 @@
+Kitchen|You're standing in a kitchen southeast of where you started.|eastRoom*none*none*southRoom

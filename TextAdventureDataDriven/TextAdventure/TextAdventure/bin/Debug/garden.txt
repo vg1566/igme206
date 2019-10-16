@@ -1,0 +1,1 @@
+Garden|You're standing in a garden southwest of where you started.|westRoom*deepGarden*southRoom*none

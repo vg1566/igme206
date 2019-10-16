@@ -1,0 +1,1 @@
+Bedroom|You're standing in a bedroom northeast of where you started.|none*eastRoom*none*northRoom

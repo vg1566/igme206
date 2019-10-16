@@ -1,0 +1,1 @@
+South Room|You're standing in a room to the south of where you started.|centerRoom*none*kitchen*garden

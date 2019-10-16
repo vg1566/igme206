@@ -1,0 +1,1 @@
+East Room|You're standing in a room to the east of where you started.|bedroom*kitchen*none*centerRoom

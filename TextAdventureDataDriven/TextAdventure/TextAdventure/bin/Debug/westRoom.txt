@@ -1,0 +1,1 @@
+West Room|You're standing in a room to the west of where you started.|livingRoom*garden*centerRoom*none
